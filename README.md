@@ -1,3 +1,3 @@
 # Codecademy_LearnHTML
 
-This is my Codecadamy's project for Learn HTML course.
+This is my Codecadamy's projects for Learn HTML course.
